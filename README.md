@@ -14,7 +14,7 @@
 2. apt upgrade -y
 3. apt install git
 4. git clone https://github.com/tr4shsx/Hardware
-5. cd Hardware
+5. cd hardware
 6. bash Hardware.sh
 
 
